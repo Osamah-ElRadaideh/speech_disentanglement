@@ -1,7 +1,7 @@
 # About
 Unsupervised speech disentanglement using GANs
 
-Inspired by [this paper] (https://arxiv.org/abs/2005.12963)
+Inspired by [this paper](https://arxiv.org/abs/2005.12963)
 
 The model employs a content extractor, speaker extractor, GAN generator and discriminator. 
 
